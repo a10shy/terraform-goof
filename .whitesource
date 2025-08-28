@@ -15,7 +15,7 @@
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
-    "iacCheckRunConclusionLevel": "failure"
+    "iacCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true
   },
