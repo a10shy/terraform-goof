@@ -3,7 +3,8 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableIaC": true,
   },
   "scanSettingsSAST": {
     "enableScan": true,
@@ -14,6 +15,7 @@
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
+    "iacCheckRunConclusionLevel": "failure"
     "displayMode": "diff",
     "useMendCheckNames": true
   },
